@@ -7,7 +7,7 @@
 #define WIFI_PASSWORD "12345678"
 
 // Firebase
-#define API_KEY ""
+#define API_KEY "AIzaSyBWDemnc8vZlE9NNnMbVv_SzYsCchDPT-w"
 #define DATABASE_URL "temperaturehumidity-4f9f0-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define USER_EMAIL "hieu@gmail.com"
 #define USER_PASSWORD "123456"
